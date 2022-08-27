@@ -1,0 +1,47 @@
+body, h1, h2, h3, h4, h5, h6{
+    font-family: 'ProximaNova','Helvetica Neue',Helvetica,Arial,sans-serif;   
+}
+
+body{
+    margin:.7em;
+}
+
+h2{
+    
+}
+h3{
+}
+
+.arduino{
+    background: #f4f4f4;
+    border: 1px solid #d4d4d4; 
+    padding: 3px 6px 2px 6px;
+    display: inline-block;
+    line-height: 1;
+    border-radius: 2px;
+    font-size: 90%;
+    font-style: normal;
+    font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
+}
+.arduino .co1 {
+    color: #7E7E7E;
+    font-style: italic;
+}
+.arduino .kw1 {
+    color: #CC6600;
+}
+.arduino .kw2 {
+    color: #006699;
+}
+.arduino .st0 {
+    color: #0066CC;
+}
+.arduino .kw3 {
+    color: #CC6600;
+    font-weight: bold;
+}
+
+.arduino .coMULTI {
+    color: #7E7E7E;
+    font-style: italic;
+}
